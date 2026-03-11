@@ -7,7 +7,7 @@ Currently building a strong portfolio in Data Science.
 ---
 
 ## Skills
-
+```
 Python
 Pandas
 NumPy
@@ -15,7 +15,7 @@ Scikit-learn
 Data Visualization
 Machine Learning
 Exploratory Data Analysis (EDA)
-
+```
 ---
 
 ## Data Science Projects
@@ -32,7 +32,7 @@ Key steps:
 * Model evaluation
 
 Repository:
-https://github.com/amirnasresfahani01/titanic-survival-prediction
+https://github.com/amirnasresfahani01/titanic-ml-projecttitanic-ml-project
 
 ---
 
