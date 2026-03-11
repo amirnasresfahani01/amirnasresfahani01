@@ -32,7 +32,8 @@ Key steps:
 * Model evaluation
 
 Repository:
-https://github.com/amirnasresfahani01/titanic-ml-projecttitanic-ml-project
+https://github.com/amirnasresfahani01/titanic-ml-project
+
 
 ---
 
